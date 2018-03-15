@@ -1,7 +1,7 @@
 # DNA-Sequencing-with-nanopores
 This repository contains an analysys software for NanoPore based DNA Sequencing.
 
-This software is based and extends on my previous work in Drndic's Lab at Univeristy Of Pennsylvania. This work might be at some point continued by Goeppert(http://gppert.com/)
+This software is based on my previous work in Drndic's Lab at Univeristy Of Pennsylvania. This work might be at some point continued by Goeppert(http://gppert.com/)
 
 The software should be able to detect events in raw or Chimera format.
 This version is implemented in Matlab, but should work also on Octave.
