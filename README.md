@@ -14,4 +14,4 @@ Bellow is an image of the results / analyse of a symple DNA translocation experi
 
 ![alt text](https://github.com/intelpen/DNA-Sequencing-with-nanopores/blob/master/DNA-Sequencing.png)
 
-More details on the project can be also found in this <a href="http://intelpen.data-science.news/index.php/2017/02/05/dna-translocation-analysis/">post</a> on <a href="http://http://intelpen.data-science.news"> my blog</a>. 
+More details on the project can be also found in this <a href="http://intelpen.data-science.news/index.php/2017/02/05/dna-translocation-analysis/">post</a> on <a href="http://intelpen.data-science.news"> my blog</a>. 
